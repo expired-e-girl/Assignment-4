@@ -36,5 +36,7 @@ THIS BATTLE GAME WILL:
 • Writes in the file the number of wins for the player or the monster every round.
 
 HOW TO RUN THE GAME:
-You may use the provided files in the project to test the game or you can create your own. Once the files are created, you may use GameTester to run the game.
+You may use the provided files in the project (file folder) to test the game or you can create your own. 
+
+Once the files are created, you may use GameTester to run the game.
 Add the paths of your created files for player, monster and spells and run the game.
