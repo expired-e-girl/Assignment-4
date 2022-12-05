@@ -2,6 +2,7 @@
 Battle Game assignment
 
 THIS BATTLE GAME WILL: 
+
 • Read from file player.txt to create a Character object (hero).
 
         The Character player object needs as arguments: String, double, double and integer values.
